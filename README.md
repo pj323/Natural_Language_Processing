@@ -1,4 +1,4 @@
-# Natural_Language_Processing with Naïve Bayes mode
+# Natural_Language_Processing with Naïve Bayes model
 
 
 Analyze the given Spam Collection dataset & Analyze the Sentiment dataset using NLP 
